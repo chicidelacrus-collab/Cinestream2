@@ -1,0 +1,15 @@
+{
+  "name": "CineStream",
+  "plugin_class": "com.cinestream.CinestreamPlugin",
+  "version": 1,
+  "authors": [
+    "chichidelacrus577"
+  ],
+  "description": "Plugin oficial de CloudStream 3 para https://cinestream.studio con streaming de películas y series en HD y 4K con múltiples servidores y subtítulos.",
+  "tvTypes": [
+    "Movie",
+    "TvSeries"
+  ],
+  "iconUrl": "https://cinestream.studio/apple-touch-icon.png",
+  "language": "es"
+}

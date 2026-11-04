@@ -1,0 +1,19 @@
+[
+  {
+    "name": "CineStream",
+    "internalName": "CineStream",
+    "plugin_class": "com.cinestream.CinestreamPlugin",
+    "version": 1,
+    "authors": [
+      "chichidelacrus577"
+    ],
+    "description": "CineStream Studio plugin for CloudStream 3. Stream movies and TV shows in 4K & HD with zero ads and multi-language subtitles.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://cinestream.studio/apple-touch-icon.png",
+    "url": "https://raw.githubusercontent.com/chichidelacrus577/CloudstreamPlugins/builds/CineStream.cs3",
+    "language": "es"
+  }
+]
